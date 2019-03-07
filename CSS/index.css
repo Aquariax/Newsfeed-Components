@@ -104,6 +104,7 @@
 }
 .article .delete {
   position: absolute;
+  height: 15px;
   bottom: 0;
   left: 95%;
   top: 4%;
