@@ -102,6 +102,17 @@
   transform: translate(-50%);
   background-color: white;
 }
+.article .delete {
+  position: absolute;
+  bottom: 0;
+  left: 95%;
+  top: 4%;
+  font-size: 12px;
+  color: #fa0202;
+  cursor: pointer;
+  transform: translate(-50%);
+  background-color: white;
+}
 .article-open {
   height: 400px;
 }
